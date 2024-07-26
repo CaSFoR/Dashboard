@@ -16,7 +16,7 @@ Dashboard is a simple web application built with ASP.NET Core MVC. It allows use
 
 - **Add New Products:** Users can add new products to the inventory.
 - **Edit Products:** Users can edit the details of existing products.
-- **Add Damaged Products:** Users can mark products as damaged and manage the details of damaged products.
+- **Add Damaged Products:** Users can add products as damaged and manage the details of damaged products.
 - **Manage Product Details:** Users can add and edit additional details for each product.
 
 ### Technologies Used
