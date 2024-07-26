@@ -2,6 +2,16 @@
 
 Dashboard is a simple web application built with ASP.NET Core MVC. It allows users to manage products, including adding new products, editing existing products, adding damaged products, and managing product details. The application provides a user-friendly interface to handle various product management tasks efficiently.
 
+![Dashboard Screenshot](images/login.jpg)
+![Dashboard Screenshot](images/Home.jpg)
+![Dashboard Screenshot](images/AddNewItem.jpg)
+![Dashboard Screenshot](images/AddNewItemModal.jpg)
+![Dashboard Screenshot](images/AddProductsDetails.jpg)
+![Dashboard Screenshot](images/ProductsDetails.jpg)
+![Dashboard Screenshot](images/EditProductsDetails.jpg)
+![Dashboard Screenshot](images/DamagedProducts.jpg)
+
+
 ### Features
 
 - **Add New Products:** Users can add new products to the inventory.
